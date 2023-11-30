@@ -43,12 +43,24 @@ git clone https://github.com/sheepleader941/rest_api
 ```
 3. Перейдите в каталог проекта
 4. Откройте проект в вашей среде разработки (например, IntelliJ IDEA) или выполните сборку с помощью Maven:
+   
+Unix:
 ```bash
 ./mvnw clean install
 ```
+Windows:
+```bash
+mvn clean install
+```
 5. Запустите приложение
+
+Unix:
 ```bash
 ./mvnw spring-boot:run
+```
+Windows:
+```bash
+mvn spring-boot:run
 ```
 6. Приложение будет доступно по адресу:
 ```
