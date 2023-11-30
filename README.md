@@ -39,7 +39,7 @@ Content-Type: application/json
 
 2. Склонируйте репозиторий с проектом:
 ```bash
-git clone https://github.com/sheepleader941/rest_api/edit/main/
+git clone https://github.com/sheepleader941/rest_api
 ```
 3. Перейдите в каталог проекта
 4. Откройте проект в вашей среде разработки (например, IntelliJ IDEA) или выполните сборку с помощью Maven:
