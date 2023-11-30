@@ -19,7 +19,7 @@
 
 Пример запроса:
 ```
-POST /api/data
+POST /symbolsFrequency
 Content-Type: application/json
 
 {
